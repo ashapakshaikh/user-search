@@ -1,0 +1,14 @@
+{
+  "name": "search-user",
+  "description": "",
+  "main": "server.js",
+  "license": "ISC",
+  "homepage": "https://github.com/ashapakshaikh/user-search",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
