@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ashapakshaikh/user-search/issues"
   },
-  "homepage": "https://github.com/ashapakshaikh/user-search#readme"
+  "homepage": "https://github.com/ashapakshaikh/user-search#readme",
+  "dependencies": {
+    "req-dir": "0.0.5",
+    "require-dir": "^1.0.0"
+  }
 }
